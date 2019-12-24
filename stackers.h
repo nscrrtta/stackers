@@ -1,0 +1,11 @@
+void initStackers();
+void playStackers();
+void moveLeds();
+void stopLeds();
+void checkAlignment();
+void updateLevel(int newGame);
+void loseSquaresAnimation();
+void loseGameAnimation();
+void winGameAnimation();
+void ISR_stackers_button();
+void clearBoard();
